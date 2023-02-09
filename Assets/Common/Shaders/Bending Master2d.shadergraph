@@ -116,9 +116,6 @@
             "m_Id": "e4731cee1c58416ba7b54fc3a6786458"
         },
         {
-            "m_Id": "71d6e47592d745ad96ccc87d1018c02e"
-        },
-        {
             "m_Id": "44a615bc7c6f4ca8ae3a51b926bd71f4"
         },
         {
@@ -516,9 +513,6 @@
             },
             {
                 "m_Id": "e4731cee1c58416ba7b54fc3a6786458"
-            },
-            {
-                "m_Id": "71d6e47592d745ad96ccc87d1018c02e"
             },
             {
                 "m_Id": "44a615bc7c6f4ca8ae3a51b926bd71f4"
@@ -1459,21 +1453,6 @@
 {
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "3dd1b443b2b440699844f04778bfa2a0",
-    "m_Id": 0,
-    "m_DisplayName": "Alpha",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Alpha",
-    "m_StageCapability": 2,
-    "m_Value": 1.0,
-    "m_DefaultValue": 1.0,
-    "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "3e6f28936d2bd28e8217abc210d35bef",
     "m_Id": 7,
     "m_DisplayName": "Height",
@@ -2149,40 +2128,6 @@
         "z": 0.0,
         "w": 0.0
     }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.BlockNode",
-    "m_ObjectId": "71d6e47592d745ad96ccc87d1018c02e",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "SurfaceDescription.Alpha",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": 0.0,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "3dd1b443b2b440699844f04778bfa2a0"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_SerializedDescriptor": "SurfaceDescription.Alpha"
 }
 
 {
